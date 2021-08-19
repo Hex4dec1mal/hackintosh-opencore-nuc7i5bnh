@@ -3,7 +3,7 @@
 OpenCore 0.7.2 EFI for Intel NUC 7I5BNH
 
 based on https://github.com/dmpanch/hackintosh-nuc7i5bnk
-fixed broken APFS driver loading on OC 0.7.2
+with some fix broken APFS driver loading on OC 0.7.2
 
 Tested on macOS Mojave 10.14.6
 
