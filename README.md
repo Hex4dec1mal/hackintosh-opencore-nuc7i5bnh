@@ -1,0 +1,1 @@
+# hackintosh-opencore-nuc7i5bnh
